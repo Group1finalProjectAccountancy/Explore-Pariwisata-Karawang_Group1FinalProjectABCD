@@ -1,4 +1,4 @@
-# 🌿 Explore Karawang
+# Explore Karawang
 ### Panduan Wisata Lengkap Destinasi Tersembunyi di Tanah Pasundan
 
 > **Project UAS** — Pengenalan Pariwisata Daerah Karawang Berbasis Teknologi Digital
@@ -10,7 +10,7 @@
 
 ---
 
-## 📋 Tentang Project
+## Tentang Project
 
 Karawang selama ini dikenal sebagai kota industri terbesar di Indonesia. Namun di balik citra industrialnya, Karawang menyimpan potensi wisata yang luar biasa — dari pantai tersembunyi, situs sejarah Proklamasi, candi Buddha tertua di Indonesia, hingga kekayaan kuliner khas Sunda pesisir.
 
@@ -65,7 +65,7 @@ git push origin main
 
 ---
 
-## 📁 Struktur File
+## Struktur File
 
 ```
 explore-karawang/
@@ -77,7 +77,7 @@ explore-karawang/
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - **HTML5** — Struktur halaman
 - **CSS3** — Styling & animasi (tanpa framework eksternal)
@@ -91,15 +91,14 @@ explore-karawang/
 
 > Isi dengan nama anggota kelompok kamu
 
-| Nama | NIM | Peran |
-|------|-----|-------|
-| ... | ... | ... |
-| ... | ... | ... |
-| ... | ... | ... |
+| Nama | NIM |
+|Adzra Naura Ufairah|2410631030071|
+|Feby Wulandari|2410631030096|
+|Rayna Sarah HAmidah|2410631030139|
 
 ---
 
-## 📚 Referensi
+## Referensi
 
 1. Dinas Pariwisata Karawang. (2023). *Data Potensi Wisata Kabupaten Karawang.*
 2. BPS Karawang. (2023). *Karawang Dalam Angka 2023 — Statistik Pariwisata.*
@@ -109,7 +108,7 @@ explore-karawang/
 
 ---
 
-## 📄 Lisensi
+## Lisensi
 
 Project ini dibuat untuk keperluan akademik (UAS). Bebas digunakan sebagai referensi dengan mencantumkan sumber.
 
